@@ -20,11 +20,12 @@ is 4.5.
 
 The dataset is used by following papers
 
-
  
 * 1 Yildirim, Savaş. (2020). Comparing Deep Neural Networks to Traditional Models for Sentiment Analysis in Turkish Language. 10.1007/978-981-15-1216-2_12. 
 * 2 Demirtas, Erkin and Mykola Pechenizkiy. 2013. Cross-lingual polarity detection with machine translation. In Proceedings of the Second International Workshop on Issues of Sentiment
 Discovery and Opinion Mining (WISDOM ’13)
+
+# Code Usage
 
 ```
 from transformers import AutoModelForSequenceClassification, AutoTokenizer, pipeline
