@@ -4,7 +4,7 @@ This model is used for Sentiment Analysis, which is based on BERTurk for Turkish
 
 # Dataset
 
-We used product and movie dataset provided by a study [2] . This dataset includes
+We used product and movie dataset provided by the study [2] . This dataset includes
 movie and product reviews. The products are book, DVD, electronics, and kitchen.
 The movie dataset is taken from a cinema Web page (www.beyazperde.com) with
 5331 positive and 5331 negative sentences. Reviews in the Web page are marked in
@@ -22,8 +22,8 @@ The dataset is used by following papers
 
 
  
-1 Yildirim, Savaş. (2020). Comparing Deep Neural Networks to Traditional Models for Sentiment Analysis in Turkish Language. 10.1007/978-981-15-1216-2_12. 
-2 Demirtas, Erkin and Mykola Pechenizkiy. 2013. Cross-lingual polarity detection with machine translation. In Proceedings of the Second International Workshop on Issues of Sentiment
+* 1 Yildirim, Savaş. (2020). Comparing Deep Neural Networks to Traditional Models for Sentiment Analysis in Turkish Language. 10.1007/978-981-15-1216-2_12. 
+* 2 Demirtas, Erkin and Mykola Pechenizkiy. 2013. Cross-lingual polarity detection with machine translation. In Proceedings of the Second International Workshop on Issues of Sentiment
 Discovery and Opinion Mining (WISDOM ’13)
 
 ```
