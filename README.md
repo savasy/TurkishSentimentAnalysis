@@ -28,6 +28,15 @@ The dataset is used by following papers
 * 2 Demirtas, Erkin and Mykola Pechenizkiy. 2013. Cross-lingual polarity detection with machine translation. In Proceedings of the Second International Workshop on Issues of Sentiment
 Discovery and Opinion Mining (WISDOM ’13)
 
+# Requirements
+you need to install transformers firts
+```
+pip install transformers
+```
+
+
+
+
 # Code Usage
 
 ```
