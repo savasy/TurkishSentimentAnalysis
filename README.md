@@ -1,4 +1,7 @@
 # Details
+
+https://huggingface.co/savasy/bert-base-turkish-sentiment-cased
+
 This model is used for Sentiment Analysis, which is based on BERTurk for Turkish Language https://huggingface.co/dbmdz/bert-base-turkish-cased
 
 
