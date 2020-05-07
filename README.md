@@ -29,7 +29,7 @@ The dataset is used by following papers
 Discovery and Opinion Mining (WISDOM ’13)
 
 # Requirements
-you need to install transformers firts
+you need to install transformers first
 ```
 pip install transformers
 ```
